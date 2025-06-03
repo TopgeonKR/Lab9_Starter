@@ -1,7 +1,7 @@
 # Lab 9 - Starter
 
-1. URL
+## URL
 [Lab9 github page](https://topgeonkr.github.io/Lab9_Starter/)
 
-2. Screenshot
+## Screenshot
 ![TrackJS Screenshot](./TrackJS_Screenshot.png)
